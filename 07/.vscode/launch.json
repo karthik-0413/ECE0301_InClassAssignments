@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/carti420/Desktop/2023-24 Sophomore/Semester 1/ECE 0301 - Problem Solving with C++/C++_Files/ECE_0301/In-Class Assignments/07",
+      "program": "/Users/carti420/Desktop/2023-24 Sophomore/Semester 1/ECE 0301 - Problem Solving with C++/C++_Files/ECE_0301/In-Class Assignments/07/build/Debug/outDebug"
+    }
+  ]
+}
